@@ -1,7 +1,7 @@
 # CodeEval-Bench 🧪⚡
 ### Automated LLM Code Generation & Reasoning Evaluation Framework
 
-[![CI](https://github.com/harshitnigam/codeeval-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/harshitnigam/codeeval-bench/actions)
+[![CI](https://github.com/thehncoder/codeeval-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/thehncoder/codeeval-bench/actions)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests: Pytest](https://img.shields.io/badge/tests-pytest-orange.svg)](tests/)
@@ -82,7 +82,7 @@ flowchart TD
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/harshitnigam/codeeval-bench.git
+git clone https://github.com/thehncoder/codeeval-bench.git
 cd codeeval-bench
 pip install -r requirements.txt
 pip install -e .
