@@ -234,4 +234,4 @@ codeeval-bench/
 **Harshit Nigam**  
 - Email: [nigamh708@gmail.com](mailto:nigamh708@gmail.com)  
 - Focus: AI Model Evaluation, Backend Engineering, Application Security  
-- Location: Available for Immediate Relocation to Hyderabad (6-Month In-Office)  
+
